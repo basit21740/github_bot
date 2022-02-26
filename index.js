@@ -1,9 +1,11 @@
+// download
 const jsonfile = require('jsonfile');
 const moment = require('moment');
 const simpleGit = require('simple-git');
 const FILEPATH = './data.json';
 const random = require('random');
 
+// const date , year , month add and  subtract
 const makeCommit = n =>{
   if(n===0) return simpleGit().push();
   const x = random.int(0,54);
@@ -17,5 +19,5 @@ const makeCommit = n =>{
     simpleGit().add([FILEPATH]).commit(DATE, {'--date':DATE}, makeCommit.bind(this, --n));
   });
 }
-
+// change it according to your will 
 makeCommit(10000);
