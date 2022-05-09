@@ -7,5 +7,5 @@ Made with  <a href="https://github.com/search?q=user%3ABasit21740+language%3Ajav
 
 # If you fork it make sure to give it a star also ☺
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+make+sure+to+follow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting.)](https://git.io/typing-svg)
        
